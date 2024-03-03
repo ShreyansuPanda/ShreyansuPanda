@@ -2,8 +2,10 @@
 <h1 align="center">Hi 👋, I'm Shreyansu Panda</h1>
 # 💫 About Me:
 <img align="right" alt="Coding" width="400" src="https://hack.codingblocks.com/_nuxt/img/maingif.1646021.gif">
-🔭 I’m currently working on Python <br>🤝 I’m looking for help with JavaScript<br>🌱 I’m currently learning Flutter<br>
+🔭 I’m currently working on Python <br>🤝 I’m looking for help with JavaScript<br>🌱 I’m currently learning Flutter<be>
 
+
+[![](https://visitcount.itsvg.in/api?id=ShreyansuPanda&icon=0&color=0)](https://visitcount.itsvg.in)
 
 
 ## 🌐 Socials:
@@ -28,6 +30,6 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=ShreyansuPanda&icon=0&color=0)](https://visitcount.itsvg.in)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
