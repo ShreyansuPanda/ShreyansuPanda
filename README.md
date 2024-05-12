@@ -2,8 +2,8 @@
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Shreyansu+Panda!;" />
 </h1>
-# 💫 About Me:
 <img align="top" alt="Coding" width="400" src="https://hack.codingblocks.com/_nuxt/img/maingif.1646021.gif">
+# 💫 About Me:
 🔭 I’m currently working on Python <br>🤝 I’m looking for help with JavaScript<br>🌱 I’m currently learning Flutter<be>
 
 
