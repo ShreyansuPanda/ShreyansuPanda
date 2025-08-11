@@ -95,7 +95,7 @@ Currently pursuing my **B.Tech in AI & Machine Learning**, I specialize in **Lan
 **Python • Pandas • Matplotlib**  
 - Built a **real-time stock portfolio monitoring system** with visualization dashboards.  
 - 99% uptime with live data updates.  
-🔗 [GitHub Repo](link)
+🔗 [GitHub Repo](https://github.com/ShreyansuPanda/Python-Projects-1/tree/main/Task2-Stock%20Portfolio%20Tracker)
 
 ---
 
