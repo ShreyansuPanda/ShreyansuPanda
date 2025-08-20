@@ -99,13 +99,6 @@ Currently pursuing my **B.Tech in AI & Machine Learning**, I specialize in **Lan
 
 ---
 
-## 📊 GitHub Stats
-![](https://github-readme-stats.vercel.app/api?username=ShreyansuPanda&theme=radical&hide_border=false&include_all_commits=true&count_private=false)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=ShreyansuPanda&theme=radical&hide_border=false)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=ShreyansuPanda&theme=radical&hide_border=false&layout=compact)
-
----
-
 ## 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/shreyansu-panda-5a9854276)  
 [![Email](https://img.shields.io/badge/Email-%23EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white)](mailto:p.shreyansu@gmail.com)  
